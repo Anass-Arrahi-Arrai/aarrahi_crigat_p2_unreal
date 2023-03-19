@@ -9,7 +9,7 @@ Open light button: O (from a test puzle)
 Open Pause menu: 1
 
 ###### Motors de Jocs | TecnoCampus Mataró
-###### 4t curs de la Doble Titulació en Enginyeria Informàtica i Disseny i Desenvolupament de Videojocs
+###### 4t curs de la Doble Titulació en Enginyeria Informàtica i Disseny i Desenvolupament de Videojocs | TecnoCampus Mataró
 
 ### Crèdits:
 
