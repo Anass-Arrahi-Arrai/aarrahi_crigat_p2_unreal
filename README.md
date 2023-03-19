@@ -1,6 +1,11 @@
 # Unreal Fishing Practice
 Autors: Anass Arrahi Arrai, Carles Rigat Almansa
 
+#### Vídeo explicatiu: https://youtu.be/JP32lIxrEu8
+#### Package amb la Build del projecte: https://drive.google.com/file/d/1-Mr6_DMAnokxYE5yw58gSiM_7QX99VqG/view?usp=share_link
+#### Codi font (també es pot descarregar directament del propi repositori de Git): 
+#### Link alternariu de Package + Codi font:
+
 ### Controls:
 Movement: WASD/UpDownLeftRight
 Jump: Space
