@@ -39,7 +39,7 @@ canviï la partida al nivell jugable. **- ANASS**
 ● (0,5p) Implementar almenys 2 animacions d’UI. **- FET A CLASSE (portat per Carles)**
 
 ● (1p) Crear i spawnejar un blueprint que sigui la canya de pescar a partir d’una malla
-creada amb BSP i enganxar-la a la mà del player. **- FET A CLASSE (portat per Carles)**
+creada amb BSP i enganxar-la a la mà del player. **- Model d'ANASS i spawn FET A CLASSE (portat per Carles)**
 
 ● (2p) Mostrar el widget al començar la fase de pesca i retirar-lo en acabar-la. **- CARLES**
 
