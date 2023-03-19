@@ -3,8 +3,9 @@ Autors: Anass Arrahi Arrai, Carles Rigat Almansa
 
 #### Vídeo explicatiu: https://youtu.be/JP32lIxrEu8
 #### Package amb la Build del projecte: https://drive.google.com/file/d/1-Mr6_DMAnokxYE5yw58gSiM_7QX99VqG/view?usp=share_link
-#### Codi font (també es pot descarregar directament del propi repositori de Git): 
-#### Link alternariu de Package + Codi font:
+Link alternariu de Package (WeTransfer): https://we.tl/t-n0uDk67s8P
+#### Codi font (també es pot descarregar directament del propi repositori de Git): https://drive.google.com/file/d/1-nCG7xv7W2qc8SgA67WCwkDYEhX4y2y5/view?usp=share_link
+_(sense enllaç de codi font per WeTransfer perquè pesa més que el límit del pla bàsic)_
 
 ### Controls:
 Movement: WASD/UpDownLeftRight
